@@ -14,13 +14,16 @@
   <a href="https://github.com/ravichavda07" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
   </a>
+  <a href="https://portfolio-ravi-chavda.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 <hr/>
 
 <h2>🛠️ Languages and Tools:</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,git,github" />
 </p>
 
 <hr/>
