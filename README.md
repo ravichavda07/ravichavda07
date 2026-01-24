@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Chavda</h1>
 
 <p align="center">
-  <b>Transforming Problems into Code based Solution</b>
+  <b>Transforming Problems into Solution</b>
 </p>
 
 <hr/>
