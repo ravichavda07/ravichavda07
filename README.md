@@ -30,7 +30,7 @@
 
 <h2>📊 Most Used Languages</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravichavda07&layout=compact&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravichavda07&theme=dark" />
 </p>
 
 <hr/>
@@ -44,7 +44,7 @@
 
 <h2>📈 GitHub Stats</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ravichavda07&show_icons=true&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravichavda07&theme=dark" />
 </p>
 
 <hr/>
