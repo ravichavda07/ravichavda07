@@ -3,6 +3,17 @@
 <p align="center">
   <b>Transforming Problems into Solution</b>
 </p>
+<h2>🚀 About Me</h2>
+<p>
+  I am a passionate software developer focused on building scalable web applications.
+  I enjoy learning new technologies and converting ideas into real-world solutions.
+</p>
+
+<p>
+  🌱 Currently learning advanced backend<br/>
+  💼 Open to fresher / junior developer opportunities <br/>
+  ⚡ Love clean code and real projects
+</p>
 
 <hr/>
 
@@ -48,15 +59,3 @@
 </p>
 
 <hr/>
-
-<h2>🚀 About Me</h2>
-<p>
-  I am a passionate software developer focused on building scalable web applications.
-  I enjoy learning new technologies and converting ideas into real-world solutions.
-</p>
-
-<p>
-  🌱 Currently learning advanced backend<br/>
-  💼 Open to fresher / junior developer opportunities <br/>
-  ⚡ Love clean code and real projects
-</p>
